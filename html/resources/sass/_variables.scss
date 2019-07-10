@@ -1,0 +1,63 @@
+
+// Body
+body{
+    background-image: url('/images/gil_bg.svg');
+    background-size: cover;
+}
+
+.rulesearch{
+  margin-bottom: 40px;
+}
+
+.card#stuAcc{
+  margin-top: 50px;
+  margin-bottom: 20px;
+    padding-top: 20px;
+  padding-bottom: 20px;
+    padding-left: 40px;
+    background-color: white;
+}
+.content {height: 100%}
+
+.gisLogo{
+  margin-top: 100px;
+}
+
+.logo{
+padding-top: 20px;
+  padding-bottom:20px;
+  padding-left: 10px;
+}
+
+th.tableHeaders{
+  border:1px solid;
+  text-align: center;
+}
+h2.fypHead{
+  padding-top: 20px;
+}
+
+
+footer {
+    position:fixed;
+    bottom:0px;
+    height:30px;
+    Background-color: black;
+    padding: 15px;
+}
+// Typography
+$font-family-sans-serif: "Nunito", sans-serif;
+$font-size-base: 0.9rem;
+$line-height-base: 1.6;
+
+// Colors
+$blue: #3490dc;
+$indigo: #6574cd;
+$purple: #9561e2;
+$pink: #f66D9b;
+$red: #e3342f;
+$orange: #f6993f;
+$yellow: #ffed4a;
+$green: #38c172;
+$teal: #4dc0b5;
+$cyan: #6cb2eb;
