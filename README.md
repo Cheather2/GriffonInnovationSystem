@@ -1,2 +1,2 @@
 # GriffonInnovationSystem
-School Project - Advisement app
+School Project - Advisement app for advisor and student use
